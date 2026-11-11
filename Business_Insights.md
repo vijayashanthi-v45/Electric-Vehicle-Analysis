@@ -1,7 +1,3 @@
-
-## Business_Insights.md
-
-```markdown
 # Business Insights – Electric Vehicle Registration Analysis
 
 ## Business Objective
