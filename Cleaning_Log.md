@@ -2,7 +2,7 @@
 
 ## Dataset Overview
 
-- Source: Electric Vehicle registration dataset
+- Source: Electric Vehicle registration dataset provided for the GROWAI internship project
 - Initial records: **289,564**
 - Initial columns: **16**
 - Duplicate records: **0**
