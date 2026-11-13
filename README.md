@@ -1,4 +1,4 @@
-# **Project Type:** Internship Project – GrowAI
+# **Project Type:** Internship Project – GROWAI
 # Electric Vehicle Registration Analysis
 
 ## Project Overview
