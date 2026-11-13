@@ -7,7 +7,7 @@ Which electric vehicle manufacturers and models are most common, and where are E
 
 This project analyzes **289,564 electric vehicle registration records** to understand manufacturer and model popularity, regional distribution, vehicle model-year patterns, electric range, and CAFV eligibility.
 
-The project was completed as part of my **GROWAI Data Analyst Internship** using Python.
+The project was completed as part of my **GROWAI Data Analyst Internship** using Python, Pandas, Matplotlib, Seaborn.
 
 ## Business Problem
 
@@ -26,7 +26,7 @@ The analysis focuses on identifying the most common manufacturers and models, co
 
 ## My Role
 
-As a GROWAI Data Analyst intern, I cleaned and analyzed the EV registration data using Python, explored registration patterns, and created visualizations to present the key findings.
+As a GROWAI Data Analyst intern, I cleaned and analyzed the EV registration data using Python, Pandas, Matplotlib, Seaborn explored registration patterns, and created visualizations to present the key findings.
 
 ## Tools & Technologies
 
